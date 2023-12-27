@@ -1,6 +1,6 @@
 # Object-Oriented-Programming
 
-**1.Student and Address Book Management System**
+**1. Student and Address Book Management System**
 
 This Java program serves as a Student and Address Book Management System. It includes features for managing student information and an address book.
 
@@ -17,7 +17,7 @@ Implement methods for contact handling.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**2.Inheritance & Polymorphism**
+**2. Inheritance & Polymorphism**
 
 This Java Program focuses on implementing inheritance and polymorphism in Java. It includes a hierarchy of dogs with a driver program and a social network simulation with posts and comments.
 
